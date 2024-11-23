@@ -1,8 +1,8 @@
 import Heading from "./Heading"
 import Navbar from "./Navbar"
 import Allflat from "./Allflats"
-import Page2 from "../pages/page2"
-import Page3 from "../pages/Page3"
+import Page2 from "../pages/Pagess2"
+import Page3 from "../pages/Pagess3"
 
 
 const Home = () => {
