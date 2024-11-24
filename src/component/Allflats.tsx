@@ -95,7 +95,7 @@ const RentalList: React.FC = () => {
   };
 
   return (
-    <div className="p-4 pl-10">
+    <div className="p-4  sm:pl-10">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         {rentalData.slice(0, visibleRentals).map((rental, index) => (
           <RentalCard key={index} {...rental} />

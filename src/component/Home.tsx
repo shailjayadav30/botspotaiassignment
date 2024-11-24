@@ -7,7 +7,7 @@ import Page3 from "../pages/Pagess3"
 
 const Home = () => {
   return (
-<div className="bg-[#F3F5FD]">
+<div className="bg-[#F3F5FD] w-screen">
     <Heading/>
     <Navbar/>
     <Allflat/>
